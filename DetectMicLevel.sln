@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectMicLevel", "DetectMicLevel\DetectMicLevel.csproj", "{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{1A85AD63-9E1D-486E-98A4-C8D2963A6FDA}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E53A32-BFCD-4920-8FE1-CD9825517695}
+	EndGlobalSection
+EndGlobal

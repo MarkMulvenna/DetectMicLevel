@@ -1,0 +1,28 @@
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.exe.config
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.exe
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.pdb
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\NAudio.dll
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\NAudio.xml
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.Form1.resources
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.Properties.Resources.resources
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.GenerateResource.cache
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.CoreCompileInputs.cache
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.CopyComplete
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.exe
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.pdb
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\bin\Debug\System.Management.Automation.dll
+F:\Stream\Programs\Detect mic level\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csprojAssemblyReference.cache
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.exe.config
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.exe
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\DetectMicLevel.pdb
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\NAudio.dll
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\System.Management.Automation.dll
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\bin\Debug\NAudio.xml
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.AssemblyReference.cache
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.Form1.resources
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.Properties.Resources.resources
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.GenerateResource.cache
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.CoreCompileInputs.cache
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.csproj.CopyComplete
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.exe
+C:\Users\markm\Downloads\Compressed\DetectMicLevel\DetectMicLevel\DetectMicLevel\obj\Debug\DetectMicLevel.pdb
